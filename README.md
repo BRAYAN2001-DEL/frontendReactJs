@@ -1,3 +1,11 @@
+Saludos soy Brayan;
+
+El codigo se encuentra documentado de forma detallada paso a paso de igual forma adjunto un video a modo de explicacion breve como desplegarlos y ciertos puntos importantes del proyecto:
+
+https://drive.google.com/file/d/16yF-CujWetzpdsilObev2U2IP3xURBm4/view?usp=sharing
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
