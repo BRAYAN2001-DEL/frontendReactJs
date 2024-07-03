@@ -1,3 +1,11 @@
+
+para desplegar utiliza:
+
+npm install
+
+npm start
+
+
 Saludos soy Brayan;
 
 El codigo se encuentra documentado de forma detallada paso a paso de igual forma adjunto un video a modo de explicacion breve como desplegarlos y ciertos puntos importantes del proyecto:
